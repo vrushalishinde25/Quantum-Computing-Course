@@ -1,9 +1,0 @@
-qiskit
-matplotlib
-pylatexenc
-seaborn
-tracemalloc
-random
-timeit
-math
-numpy
